@@ -1,18 +1,4 @@
-Stack:
-------
-=> LIFO 
-4 opertations=>push, pop, peek, isempty
-~~PUSH:
--> stack ->last(rear), first(front)
--> no top : top = 0
--> Increment the top for adding the next element. => top++
--> append => starts adding on the top of the stack.
--> pop => remove the element and decrement the top value.
--> peek: directly display the top elements without poping any other elements.=> ::-1
--> isempty: to check if stack is empty. => stack length = 0
-==> REAL TIME APPLICATIONS: browser
-
-#code:
+#code for Stack
 class Stack:
     def __init__(a):
         a.stack = []
