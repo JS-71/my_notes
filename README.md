@@ -16,3 +16,6 @@ my-notes/
 |  |-- Graphs
 |  |-- BFS
 |  |-- DFS
+
+# My Notes Dashboard
+- [Day-1](Day-1/stacks)
