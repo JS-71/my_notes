@@ -13,11 +13,12 @@ my-notes/
 |  |-- Binary Trees
 |  |-- Traversals [inorder, preorder, postorder]
 |  |-- Validating a Binary Tree
+|--Day-4
+|    |--Graphs
+|    |-- BFS
+|    |--DFS
 ```
-- `Day-4`
-    - Graphs
-    - BFS
-    - DFS
+
   
 # My Notes Dashboard
 - [Day-1](Day-1/stacks)
