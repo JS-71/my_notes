@@ -1,5 +1,5 @@
 # my_notes
-'''
+```
 my-notes/
 |-- README.md (overview of notes)
 |-- Day-1
@@ -17,6 +17,6 @@ my-notes/
 |  |-- Graphs
 |  |-- BFS
 |  |-- DFS
-'''
+```
 # My Notes Dashboard
 - [Day-1](Day-1/stacks)
