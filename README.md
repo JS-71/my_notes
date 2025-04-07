@@ -21,4 +21,4 @@ my-notes/
 
   
 # My Notes Dashboard
-- [Day-1](Day-1/stacks)
+- [Day-1](Day-1/Stacks)
