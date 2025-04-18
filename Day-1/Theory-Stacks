@@ -3,6 +3,7 @@ Stacks Theory:-
 => LIFO 
 4 opertations=>push, pop, peek, isempty
 ~~PUSH:
+=======
 -> stack ->last(rear), first(front)
 -> no top : top = 0
 -> Increment the top for adding the next element. => top++
