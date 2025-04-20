@@ -1,0 +1,32 @@
+# INSERTION OF AN ARRAY:
+# ---------------------
+- Initialize the array
+- Define its size
+- declare the new_position variable where you need to insert the elements position
+- declare the new_element that need to be added to the array in the particular position
+- in order to add the the new_element in a specific place teh size of the array should be extended so add the new_element '0' at the last of the array. 
+- traverse a loop and swap the elements to next(+) position .
+- insert the element in the new_position
+- increase the size of the array by 1
+- traverse the loop for the range of size.
+- print the  elements that are in the array.
+----------------------------------------------
+
+```Python code:
+
+arr = [2, 4, 6, 8, 10]
+size = 5
+new_position = 4
+new_element = 5
+arr.append(0)
+for i in range(size-1, new_position -1, -1):
+  arr[i+1] = arr[i]
+arr[new_position] = new_element
+size += 1
+for i in range(size):
+  print(arr[i], end =" ")
+
+
+///output:
+2 4 6 8 5 10 
+```
