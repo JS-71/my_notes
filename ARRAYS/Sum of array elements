@@ -1,0 +1,15 @@
+```Python code
+n = int(input())
+arr = list(map(int,input().split()))
+sums = 0
+if len(arr) != n:
+    print("Error")
+else:
+    sums = sum(arr)
+print(sums)
+````
+Input:
+5
+8 2 4 1 4
+output:
+19
