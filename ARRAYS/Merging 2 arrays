@@ -1,0 +1,18 @@
+///Merging 2 arrays
+```python code
+# First array
+arr1 = [2, 4, 6]
+size1 = 3
+
+# Second array
+arr2 = [8, 10, 12, 14]
+size2 = 4
+
+#Write the code to solve the following problem
+mergedSize = len(arr1) + len(arr2)
+merged = arr1 + arr2
+
+# Print the merged array
+for i in range(mergedSize):
+    print(merged[i], end=" ")
+````
